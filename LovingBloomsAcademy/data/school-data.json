@@ -1,0 +1,30 @@
+{
+  "school": {
+    "name": "Loving Blooms Academy",
+    "tagline": "Where every learner blooms",
+    "curriculum": "CBC — Competency Based Curriculum",
+    "levels": "Early Years to Grade 6",
+    "successRate": 96
+  },
+  "stats": [
+    { "label": "Success Rate", "value": "96%" },
+    { "label": "Grade Levels", "value": "PP1–6" },
+    { "label": "Learners Nurtured", "value": "300+" },
+    { "label": "Qualified Teachers", "value": "24" }
+  ],
+  "contact": {
+    "phone": "+254 726 381 944",
+    "poBox": "P.O. Box 525285-00100, Nairobi",
+    "email": "info@lovingbloomsacademy.ac.ke",
+    "location": "Embakasi, Fedha Kwa Ndege, Nairobi",
+    "hours": "Mon – Fri: 7:00 AM – 5:00 PM"
+  },
+  "facilities": [
+    { "name": "CBC Learning Classrooms", "desc": "Bright, well-resourced classrooms designed around competency-based, hands-on learning." },
+    { "name": "Science & Discovery Corner", "desc": "A dedicated space where learners explore, experiment, and build inquiry skills early." },
+    { "name": "Reading & Library Nook", "desc": "A cosy reading corner stocked with age-appropriate books to build a love for reading." },
+    { "name": "Playground & Outdoor Play", "desc": "Safe, supervised outdoor play areas that support physical and social development." },
+    { "name": "ICT & Digital Literacy Room", "desc": "Age-appropriate digital literacy sessions that prepare learners for a digital world." },
+    { "name": "Nutrition & Feeding Program", "desc": "Balanced, nutritious meals prepared on-site to keep learners healthy and focused." }
+  ]
+}
